@@ -1,0 +1,11 @@
+name,id,nametype,recclass,mass,fall,year,reclat,reclong,GeoLocation
+Hoba,11890,Valid,"Iron, IVB",60000000.0,Found,1920,-19.58333,17.91667,"(-19.583330, 17.916670)"
+Cape York,5262,Valid,"Iron, IIIAB",58200000.0,Found,1818,76.13333,-64.93333,"(76.133330, -64.933330)"
+Campo del Cielo,5247,Valid,"Iron, IAB-MG",50000000.0,Found,1575,-27.46667,-60.58333,"(-27.466670, -60.583330)"
+Canyon Diablo,5257,Valid,"Iron, IAB-MG",30000000.0,Found,1891,35.05,-111.03333,"(35.050000, -111.033330)"
+Armanty,2335,Valid,"Iron, IIIE",28000000.0,Found,1898,47.0,88.0,"(47.000000, 88.000000)"
+Gibeon,10912,Valid,"Iron, IVA",26000000.0,Found,1836,-25.5,18.0,"(-25.500000, 18.000000)"
+Chupaderos,5363,Valid,"Iron, IIIAB",24300000.0,Found,1852,27.0,-105.1,"(27.000000, -105.100000)"
+Mundrabilla,16852,Valid,"Iron, IAB-ung",24000000.0,Found,1911,-30.78333,127.55,"(-30.783330, 127.550000)"
+Sikhote-Alin,23593,Valid,"Iron, IIAB",23000000.0,Fell,1947,46.16,134.65333,"(46.160000, 134.653330)"
+Bacubirito,4919,Valid,"Iron, ungrouped",22000000.0,Found,1863,26.2,-107.83333,"(26.200000, -107.833330)"
